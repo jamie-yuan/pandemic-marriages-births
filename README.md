@@ -1,6 +1,7 @@
 # Impact of the COVID-19 Pandemic on Marriage and Birth Rates in Canada
+A computational exploration on how COVID-19 has affected marriages and births, developed for the University of Toronto CSC110 Final Project.
 
-## CSC110 Final Project Introduction
+## Introduction
 With the impact of the COVID-19 pandemic reaching most every aspect of life, major decisions like getting married and having children have not been left out. Factors such as the decreased ability to socialize face-to-face, lockdown orders, and financial insecurity due to circumstances such as job layoffs, have all potentially impacted the rate that these significant decisions have been made. This project uses statistical and regression analysis with Canadian marriage and birth data to explore the following research question: How has the COVID-19 pandemic affected Canadians’ major life decisions in 2018-2020, such as getting married and having children? Specifically, how has the rate of these measures changed with the rate of COVID-19 cases?
 
 ## Usage
