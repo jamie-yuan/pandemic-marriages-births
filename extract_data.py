@@ -25,9 +25,9 @@ def covid19_data() -> dict[str: int]:
     month and year of cases (2018-2020) to its corresponding number of cases, using Pandas.
 
     Preconditions:
-        - The file 'covid19-data.csv' is in the same directory as this file.
+        - The file 'covid19_data.csv' is in the same directory as this file.
     """
-    covid_file = 'covid19-data.csv'
+    covid_file = 'covid19_data.csv'
     read_file = pd.read_csv(covid_file)
     cases_by_month = {}
 
